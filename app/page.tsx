@@ -1,5 +1,4 @@
-import AssessmentComponent from "@/components/Assesment";
-import Image from "next/image";
+import AssessmentComponent from "@/components/Assessments";
 
 export default function Home() {
   return (
